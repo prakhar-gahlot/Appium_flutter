@@ -1,0 +1,6 @@
+Appium_Flutter_Finder==0.7.0
+Appium_Python_Client==3.2.1
+Appium_Python_Client==4.2.1
+PyYAML==6.0.2
+PyYAML==6.0.2
+selenium==4.26.1

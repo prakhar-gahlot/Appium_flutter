@@ -1,0 +1,11 @@
+lambdatest_username: "<your_lambda_test_username>"
+lambdatest_access_key: "<your_lambda_test_access_key>"
+platform: android # Set to 'ios' for iOS tests and android for android tests
+
+# Device and OS versions for Android
+android_device_name: "Pixel 3"
+android_version: "9.0"
+
+# Device and OS versions for iOS
+ios_device_name: "iPhone 12"
+ios_version: "14"
